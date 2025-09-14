@@ -2,8 +2,8 @@
 
 ### Gradle Consulting
 
-I have 10 years of experience maintaining Gradle builds in companies all around the world, for teams ranging in size from 3 to over 1000, and for projects with a single module
-to projects of over 6000 modules. That experience includes Java, Kotlin, and Android projects, and more.
+I have 10 years' experience maintaining Gradle builds at companies all around the world, for teams ranging in size from 3 to over 1000, for projects with a single module
+to projects of over 6000 modules, and for the JVM and Android ecosystems. I have experience with Java, Kotlin, Groovy, and reading manuals.
 
 Every team needs a build engineer, but not all teams can afford to have one on staff. Need help? Hire me!
 
@@ -11,29 +11,47 @@ Every team needs a build engineer, but not all teams can afford to have one on s
 
 ### Gradle plugins
 
-* The [Dependency Analysis Gradle Plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin) is business-critical for maintaining healthy dependency graphs.
-* The [Gradle TestKit Support Plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/tree/main/testkit) simplifies usage of Gradle TestKit for writing
-  functional tests for Gradle plugins.
-* The [Gradle Best Practices Plugin](https://github.com/autonomousapps/gradle-best-practices-plugin) is a plugin that detects violations of Gradle best practices in Gradle
-  plugins.
-* The [Gradle Dependencies Sorter](https://github.com/square/gradle-dependencies-sorter) is a CLI app, library, and plugin that sorts `dependencies` blocks to ease the
-  build maintainer's burden.
+**[Dependency Analysis Gradle Plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)**
+
+A business-critical plugin for maintaining healthy dependency graphs.
+
+**[Gradle TestKit Support Plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/tree/main/testkit)**
+
+This plugin dramatically simplifies usage of Gradle TestKit for writing functional tests for Gradle plugins.
+
+**[Gradle Best Practices Plugin](https://github.com/autonomousapps/gradle-best-practices-plugin)**
+
+This plugin that detects violations of Gradle best practices in Gradle plugins.
+
+**[Gradle Dependencies Sorter](https://github.com/square/gradle-dependencies-sorter)**
+
+A CLI app, library, and plugin that sorts `dependencies` blocks to ease the build maintainer's burden.
 
 ## Gradle libraries
 
-[Gradle Glossary](https://github.com/autonomousapps/gradle-glossary).
+**[Gradle Glossary](https://github.com/autonomousapps/gradle-glossary)**
 
-The [variant-artifacts](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/tree/main/variant-artifacts) library simplifies variant artifact sharing between
-projects within a build.
+This glossary of Gradle terms is a great starting point for understanding the Gradle framework.
 
-[Kotlin Editor](https://github.com/cashapp/kotlin-editor) is a Kotlin library for parsing Kotlin source code into a parse tree, enabling semantic analysis, linting, and
-rewriting in place. Supports normal Kotlin source, Kotlin scripts, and Gradle Kotlin DSL.
+**[com.autonomousapps:variant-artifacts](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/tree/main/variant-artifacts)**
+
+A library that simplifies variant artifact sharing between projects within a build.
+
+**[Kotlin Editor](https://github.com/cashapp/kotlin-editor)**
+
+A Kotlin library for parsing Kotlin source code into a parse tree, enabling semantic analysis, linting, and rewriting in place. Supports normal Kotlin source, Kotlin scripts,
+and Gradle Kotlin DSL.
 
 ## Blog posts
 
-[Herding Elephants](https://developer.squareup.com/blog/herding-elephants/)
+**[Herding Elephants](https://developer.squareup.com/blog/herding-elephants/)**
 
-[Stampeding Elephants](https://developer.squareup.com/blog/stampeding-elephants/)
+A story about supporting Square's (in)famously large Android project with Gradle.
+
+**[Stampeding Elephants](https://developer.squareup.com/blog/stampeding-elephants/)**
+
+A follow-up to _Herding Elephants_, this post emphasizes the tremendous gains that can accrue from actually maintaining an existing build, instead of attempting a moonshot
+migration.
 
 <!-- I should just curate a list of my favorite -->
 <!-- [Many other posts](https://dev.to/autonomousapps) -->
