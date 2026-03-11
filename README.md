@@ -76,7 +76,7 @@ A library that simplifies variant artifact sharing between projects within a bui
 A Kotlin library for parsing Kotlin source code into a parse tree, enabling semantic analysis, linting, and rewriting in
 place. Supports normal Kotlin source, Kotlin scripts, and Gradle Kotlin DSL.
 
-## Blog posts
+### Blog posts
 
 **[Herding Elephants](https://developer.squareup.com/blog/herding-elephants/)**
 
