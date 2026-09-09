@@ -24,7 +24,7 @@ I am also a [Gradle Fellow](https://gradle.org/fellowship/).
 > was possible.
 
 **[Kats Gupta](https://www.linkedin.com/in/kartikaya-gupta-15a3351a4/), Senior Engineer, Block**
-> Having worked alongside Tony over the past couple of years, I can say he’s truly an excellent engineer. he puts a lot
+> Having worked alongside Tony over the past couple of years, I can say he’s truly an excellent engineer. He puts a lot
 > of thought into his decisions and his code, and takes care of the details to a degree that is quite rare. His 
 > expertise with Gradle and the JVM ecosystems also runs very deep, and I could always rely on him to dig up answers to
 > my arcane questions. Additionally, I greatly appreciate his ability to prioritize tasks and focus on whatever was most
