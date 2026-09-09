@@ -10,8 +10,8 @@ build, you stop them wasting their time waiting for builds to finish, and keep t
 high-quality, ultimately leading to more satisfied customers.
 
 I have 12 years' experience maintaining Gradle builds at companies all around the world, for teams ranging in size from 
-3 to over 1000, for projects with a single module to projects of over 7000 modules, and for the JVM and Android
-ecosystems. I have experience with Java, Kotlin, Groovy, and more.
+3 to over 1000, for projects with a single module to projects of over 7000 modules, and for the Android, JVM, and Kotlin 
+Multiplatform ecosystems. I have experience with Java, Kotlin, Groovy, and more.
 
 I am also a [Gradle Fellow](https://gradle.org/fellowship/).
 
